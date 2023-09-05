@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sample_React_Repository_AGUIRRE/static/css/main.88404e20.css",
+    "main.js": "/Sample_React_Repository_AGUIRRE/static/js/main.c10e7888.js",
+    "static/js/787.eed000a1.chunk.js": "/Sample_React_Repository_AGUIRRE/static/js/787.eed000a1.chunk.js",
+    "static/media/bato2.jpg": "/Sample_React_Repository_AGUIRRE/static/media/bato2.c1392acff88389104d51.jpg",
+    "static/media/camp1.jpg": "/Sample_React_Repository_AGUIRRE/static/media/camp1.75316d323b467271a92b.jpg",
+    "static/media/camp3.jpg": "/Sample_React_Repository_AGUIRRE/static/media/camp3.ddb83246a0f5162e1321.jpg",
+    "static/media/camp.jpg": "/Sample_React_Repository_AGUIRRE/static/media/camp.12540b122a8bf201ccac.jpg",
+    "static/media/cup.jpg": "/Sample_React_Repository_AGUIRRE/static/media/cup.3c5c77f7ae636895a99f.jpg",
+    "static/media/kiamo2.jpg": "/Sample_React_Repository_AGUIRRE/static/media/kiamo2.c0d74458c234ca130b9d.jpg",
+    "static/media/sort2.jpg": "/Sample_React_Repository_AGUIRRE/static/media/sort2.11e6599ac4c8ef69971f.jpg",
+    "index.html": "/Sample_React_Repository_AGUIRRE/index.html",
+    "main.88404e20.css.map": "/Sample_React_Repository_AGUIRRE/static/css/main.88404e20.css.map",
+    "main.c10e7888.js.map": "/Sample_React_Repository_AGUIRRE/static/js/main.c10e7888.js.map",
+    "787.eed000a1.chunk.js.map": "/Sample_React_Repository_AGUIRRE/static/js/787.eed000a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88404e20.css",
+    "static/js/main.c10e7888.js"
+  ]
+}
